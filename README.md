@@ -3,8 +3,8 @@
 🎮 We specialize in game server development and automation:
 	•	🔧 Custom FiveM scripts (ESX, QBCore, standalone)
 	•	🧱 Minecraft plugins (Spigot, Paper, Bungee)
-	•	🤖 Discord bots (Node.js with slash commands & automation)
-	•	🗃️ Backend integrations (MySQL, REST APIs, config systems)
+	•	🤖 Discord bots (Java with slash commands & automation)
+	•	🗃️ Backend integrations (MySQL, REST APIs, config systems, NoSQL)
 
 ⸻
 
@@ -23,8 +23,10 @@ Java · Lua · JavaScript · TypeScript · Node.js · SQL
 📬 Looking for custom development?
 
 You can find us here:
-	•	Fiverr: KevkoStudio on Fiverr
-	•	Website: kevkostudio.io (coming soon)
+	•	Fiverr: KevkoStudio
+	•	Website: kevkostudio.io
+ 	•	Instagram: KevkoStudio
+	•	YouTube: kevkostudio.io
 
 ⸻
 
