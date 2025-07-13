@@ -1,35 +1,51 @@
-👋 Welcome to KevkoStudio
+# 👋 Willkommen bei KevkoStudio
 
-🎮 We specialize in game server development and automation:
-	•	🔧 Custom FiveM scripts (ESX, QBCore, standalone)
-	•	🧱 Minecraft plugins (Spigot, Paper, Bungee)
-	•	🤖 Discord bots (Java with slash commands & automation)
-	•	🗃️ Backend integrations (MySQL, REST APIs, config systems, NoSQL)
+**Dein Partner für moderne Websites, digitale Sichtbarkeit und kreative Medienlösungen.**
 
-⸻
+---
 
-🧠 Tech Stack
+## 💻 Unsere Leistungen
 
-Java · Lua · JavaScript · TypeScript · Node.js · SQL
+- 🎨 Individuelles Webdesign (mobiloptimiert & responsive)  
+- 🧩 Websites mit Backend, CMS & Funktionalitäten  
+- 🌐 Domain-Anbindung, Hosting & technische Betreuung  
+- 🧠 SEO-Basics & Performance-Monitoring  
+- 🖼️ Logo-Design (Canva / AI)  
+- 📷 Content-Fotografie & 🎬 Videoschnitt (Werbevideos)  
+- 📱 Social Media Management & Beratung  
 
-💼 What We Deliver
-	•	Clean & optimized code
-	•	Custom-built features, not copy-paste
-	•	Fast communication & revisions
-	•	Setup-ready scripts or plugins
+---
 
-⸻
+## ⚙️ Technologien & Tools
 
-📬 Looking for custom development?
+**HTML · CSS · JavaScript · Node.js · MongoDB · Canva · OpenAI · Java · Git**
 
-You can find us here:
-	•	Fiverr: KevkoStudio
-	•	Website: kevkostudio.io
- 	•	Instagram: KevkoStudio
-	•	YouTube: kevkostudio.io
+---
 
-⸻
+## 📦 Pakete
 
-“Let’s build your next great server experience.”
+### 🔧 Basic Website  
+ab **499 €**  
+Für Einzelunternehmen, Praxen oder kleine Teams.  
 
-🟢 We turn server ideas into reality. One line of clean code at a time.
+### 💼 Website mit Backend  
+ab **1.199 €**  
+Für skalierende Unternehmen mit Dashboard, Login-System & mehr.  
+
+### 🔐 Laufende Betreuung  
+ab **49 €/Monat**  
+Updates, SEO, Performance-Auswertung & Social Media Support.  
+
+---
+
+## 📬 Kontakt
+
+👉 Jetzt unverbindlich anfragen:  
+**Mail**: [kontakt@kevkostudio.de](mailto:kontakt@kevkostudio.de)  
+**Website**: [kevkostudio.io](https://kevkostudio.io)  
+**Instagram**: [@kevkostudio](https://instagram.com/kevkostudio)  
+**YouTube**: [KevkoStudio](https://youtube.com/@kevkostudio)
+
+---
+
+> “Digitale Präsenz ist kein Luxus – sie ist dein Fundament.”
